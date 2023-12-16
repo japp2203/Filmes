@@ -7,6 +7,9 @@ Filmes
 
     <img src="imagens/QRFilmesCom.png" alt="">
 </a>
+
+![QRFilmesCom](https://github.com/japp2203/Filmes/assets/142062695/df038b77-000f-4195-ac62-99664b71d251)
+
  
 
 
