@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+#cabecalho {
+    padding: 5rem;
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+
+}
+
+#items {
+    display: flex;
+    margin-left: 45rem;
+    font-size: 1rem;
+
+}
+
+.x>a {
+    color: white;
+    margin-left: 2rem;
+
+}
+
+.x>a:hover {
+    color: red;
+    margin-left: 2rem;
+    transition: 0.8ms;
+    font-size: 1.5rem;
+
+}
+
+#section2 {
+    padding: 10rem;
+    background-color: rgba(0, 0, 0, 0.308);
+}
+
+#titulo {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 3rem;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+#section2 p {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+#buttom {
+    padding: 1rem 4rem;
+    background-color: rgba(0, 0, 0, 0.199);
+    border-radius: 3rem;
+    border-left-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    margin-left: 30rem;
+    margin-top: 1rem;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 1.1rem;
+
+}
+
+#img-div {
+    padding: 2.5rem;
+    background-image: url(imagens/Background2.png);
+    background-position: center;
+    background-size: auto;
+}
+
+#section3 {
+    padding: 4rem;
+    display: flex;
+}
+
+#section3>div>h2{
+    font-size: ;
+
+}
+
+#section3 div img{
+    border-radius: 4rem;
+    width: 30rem;
+    height: 40rem;
+   
+}
